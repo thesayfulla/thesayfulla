@@ -1,7 +1,6 @@
 ### Hi 👋🏻
 #### I'm Sayfulla,
 
-- 👨‍💻 software engineer at [AIsha Group](https://aisha.group/)
 - 🐍 working mainly with **Python**
 - 🧐 interested in **low level** and **automation**
 
