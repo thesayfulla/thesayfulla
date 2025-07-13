@@ -6,7 +6,7 @@ class Sayfulla:
 
     def connect(self):
         return {
-            "website": "https://thesayfulla.github.io/",
-            "linkedin": "https://www.linkedin.com/in/thesayfulla"
+            "website": "thesayfulla.github.io",
+            "linkedin": "linkedin.com/in/thesayfulla"
         }
 ```
