@@ -1,12 +1,8 @@
-```python
-class Sayfulla:
-    def __init__(self):
-        self.languages = ["Python", "Go"]
-        self.interests = ["low level", "automation", "systems design"]
+### Hi 👋🏻
+#### I'm Sayfulla,
 
-    def connect(self):
-        return {
-            "website": "thesayfulla.github.io",
-            "linkedin": "linkedin.com/in/thesayfulla"
-        }
-```
+- 🐍 working mainly with **Python**
+- 🧐 interested in **low level** and **automation**
+
+[[website](https://thesayfulla.github.io/)]
+[[linkedin](https://www.linkedin.com/in/thesayfulla)]
