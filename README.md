@@ -1,7 +1,7 @@
 ### Hi 👋🏻
 #### I'm Sayfulla,
 
-- working mainly with **Python** 🐍
+- working mainly with **Python/Golang**
 - interested in **automation** and **cloud** ☁️ 
 
 [[medium](https://medium.com/@thesayfulla)]
