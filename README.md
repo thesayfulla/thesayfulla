@@ -5,4 +5,4 @@
 - interested in **automation** and **cloud** ☁️ 
 
 [[linkedin](https://www.linkedin.com/in/thesayfulla)]
-[[resume](https://gist.github.com/thesayfulla/976d801c9f2a5bb50363c01ded1bf509)]
+[[resume](https://drive.google.com/file/d/17T8EGDkbfNxlbm7oy-F8RfLc5StpnaNI/view)]
